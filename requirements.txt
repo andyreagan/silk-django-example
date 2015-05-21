@@ -1,0 +1,17 @@
+Django==1.6.5
+ethtool==0.6
+flup==1.0.3.dev20110405
+iniparse==0.3.1
+iotop==0.3.2
+M2Crypto==0.20.2
+MySQL-python==1.2.3rc1
+policycoreutils-default-encoding==0.1
+pycurl==7.19.0
+pygpgme==0.1
+pyinotify==0.9.1
+pyOpenSSL==0.10
+python-dmidecode==3.10.13
+rhnlib==2.5.22
+setools==1.0
+urlgrabber==3.9.1
+yum-metadata-parser==1.1.2
