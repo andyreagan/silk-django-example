@@ -6,4 +6,4 @@ RewriteEngine On
 # RewriteRule ^Page/(.*)/?$ /page.cfm?pagevar=$1 [QSA,NC,L]
 
 # Internally forward /Page/abc123 to /page.cfm?pagevar=abc123
-RewriteRule ^([a-z/]*)/?$ /testsite/wsgi.py/$1 [QSA,NC,L]
+RewriteRule ^([a-z/]*)/?$ /django-test/wsgi.py/$1 [QSA,NC,L]

@@ -1,6 +1,6 @@
 #! /usr/bin/env python
 import os, sys
-sys.path.append('/users/c/m/cmplxsys/www-root/testsite/testsite')
+sys.path.append('/users/c/m/cmplxsys/www-root/django-test/testsite')
 os.environ['DJANGO_SETTINGS_MODULE'] = 'testsite.settings'
 
 import django.core.handlers.wsgi
